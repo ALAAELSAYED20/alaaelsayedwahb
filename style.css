@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    padding-left: 45px;
 }
 form{
     background-color: rgb(7, 7, 94);
